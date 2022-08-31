@@ -1,0 +1,12 @@
+.header {
+  display: flex;
+  vertical-align: middle;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 70px;
+  margin-top: 30px;
+}
+
+.header__logo {
+  margin-left: 50px;
+}

@@ -1,0 +1,12 @@
+.dashboard {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  vertical-align: middle;
+}
+
+.dashboard__main {
+  margin-top: 60px;
+  display:grid;
+  grid-template-columns: 7fr 3fr;
+}

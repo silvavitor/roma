@@ -1,0 +1,11 @@
+.menu {
+  display: flex;
+  justify-content: space-evenly;
+  width: 100%;
+  color: #3b3a3a;
+}
+
+.menu h3:hover {
+  cursor:pointer;
+  opacity: 80%;
+}

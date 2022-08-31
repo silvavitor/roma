@@ -1,0 +1,10 @@
+.lateralCard {
+  padding: 30px 15px;
+  margin-bottom: 15px;
+  height: 100px;
+  width: 60%;
+
+  font-size: 20px;
+
+  cursor: default;
+}

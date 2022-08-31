@@ -1,0 +1,11 @@
+.card {
+  border-radius: 10px;
+  box-shadow: 4px 4px 10px #3b3a3a;
+  transition: 0.5s;
+}
+
+.card:hover {
+  opacity: 80%;
+}
+
+
